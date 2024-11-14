@@ -1,0 +1,1 @@
+export type AjaxResponse = Record<string, any>;
